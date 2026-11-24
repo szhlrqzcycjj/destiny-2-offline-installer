@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Explore the mysteries of Sol and experience exhilirating first-person shooter combat in Destiny 2. Unlock powerful abilities and collect unique gear across story missions, co-op, and PvP modes.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows® 10 64-bit (latest Service Pack) | macOS 11.0 or later |
+| **Processor** | Min: Intel® Core™ i3 3250 3.5 GHz or Intel Pentium G4560 3.5… / Rec: Processor Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 G… | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: NVIDIA® GeForce® GTX 660 2GB or GTX 1050 2GB / AMD Rade… / Rec: NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 3… | Metal-capable GPU |
+| **Storage** | 105 GB available space | 105 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Additional Notes** | Beginning on June 4, 2024, Destiny 2 is ending support … | Beginning on June 4, 2024, Destiny 2 is ending support … |
 
 ---
 
